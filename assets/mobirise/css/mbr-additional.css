@@ -482,6 +482,9 @@ h6,
   text-align: left;
   color: #000000;
 }
+#header1-1 .mbr-section-lead P {
+  text-align: left;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -616,6 +619,7 @@ h6,
 #menu-2 .close-icon::after {
   background-color: #000000;
 }
+
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -682,4 +686,12 @@ h6,
 #menu-4 .close-icon::before,
 #menu-4 .close-icon::after {
   background-color: #000000;
+}
+#form1-k .form-control-label {
+  color: #232323;
+}
+#form1-k .mbr-section-title {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
 }
