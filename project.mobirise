@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "works.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 128,
+    "uniqCompNum": 132,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -35,7 +35,8 @@
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -184,7 +185,8 @@
     "works.html": {
       "settings": {
         "title": "Works",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 2
       },
       "components": [
         {
@@ -331,7 +333,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/difficult3-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x419.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -389,7 +391,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ypsilonely-1400x2099.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x419.jpg",
               "link": "ypsilonely.html",
               "alt": "",
               "title": "",
@@ -447,7 +449,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x419.jpg",
               "link": "kgahetzeggenwalter.html",
               "alt": "",
               "title": "",
@@ -505,7 +507,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x419.jpg",
               "link": "didnttheytellyou?.html",
               "alt": "",
               "title": "",
@@ -563,7 +565,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x419.jpg",
               "link": "ZEEP#2.html",
               "alt": "",
               "title": "",
@@ -621,7 +623,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x419.jpg",
               "link": "ZEEP.html",
               "alt": "",
               "title": "",
@@ -679,7 +681,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x419.jpg",
               "link": "Aantrede.html",
               "alt": "",
               "title": "",
@@ -737,7 +739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x419.jpg",
               "link": "plethorainmountainscene.html",
               "alt": "",
               "title": "",
@@ -1264,7 +1266,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x419.jpg",
               "link": "roer-me-niet.html",
               "alt": "",
               "title": "",
@@ -1322,7 +1324,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x419.jpg",
               "link": "untitled.html",
               "alt": "",
               "title": "",
@@ -1343,13 +1345,58 @@
           "title": "Untitled",
           "text": "<i>video</i><br>(2014)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-3n",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Celine Aernoudt."
         }
       ]
     },
     "curriculum.html": {
       "settings": {
         "title": "Curriculum",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 3
       },
       "components": [
         {
@@ -1475,7 +1522,8 @@
     "contact.html": {
       "settings": {
         "title": "Contact",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 4
       },
       "components": [
         {
@@ -1666,7 +1714,8 @@
     "difficultbutallyours.html": {
       "settings": {
         "title": "Difficult but all yours",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt, Difficult but all yours, Difficult, but, all, yours, happening, mixed media, 2017"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt, Difficult but all yours, Difficult, but, all, yours, happening, mixed media, 2017",
+        "order": 5
       },
       "components": [
         {
@@ -1879,7 +1928,8 @@
     "ypsilonely.html": {
       "settings": {
         "title": "Ypsilonely",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt, Ypsilonely, ob"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt, Ypsilonely, ob",
+        "order": 6
       },
       "components": [
         {
@@ -2046,7 +2096,8 @@
     "kgahetzeggenwalter.html": {
       "settings": {
         "title": "'k Ga het zeggen Walter",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt, 'k Ga het zeggen Walter"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt, 'k Ga het zeggen Walter",
+        "order": 7
       },
       "components": [
         {
@@ -2200,9 +2251,23 @@
     "didnttheytellyou?.html": {
       "settings": {
         "title": "Didn't they tell you?",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 8
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Didn't they tell you?</b></p><p><i>sculpture</i></p><p>(2017)</p><p><br></p><p>A mirror in the shape of a keyhole.\n</p><p><br></p><p>Voyeurism strikes back.</p><p><br></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2331,28 +2396,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-2r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
         }
       ]
     },
     "ZEEP#2.html": {
       "settings": {
         "title": "ZEEP#2",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 9
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>ZEEP#2</b></p><p><i>sculpture / happening with Tim Choin</i></p><p><i>\"Le savon\" by Francis Ponge read by Irma Emmery</i></p><p>(2016)</p><p><br></p><p>During the performance you could see us, in our overalls, cutting and moulding the angular block into little pieces of soap. Meanwhile, surrounded by evaporating smo- ke, you could listen to fragments of “Le savon”, a book by Francis Ponge. The soapblocks were put in a numbered and signed plastic bag.\n</p><p>The soap measured ca. 145 x 40 x 80 centimeters and weighed ap- proximatly 350 kilogram. At the end of the performance 400 bags, with each one soap block in it, were handed out to the audience.\n</p><p><br></p><p>Since we have a soap this big and heavy, we did another performan- ces in line with the first one. This idea came up since a soap is always reshaping itself in normal use. By putting the soap blocks in num- bered and signed zip-bags, the spectators and eventual owners of this utensil either art object were being asked to use it or keep it.</p><p><br></p><p><br></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2481,28 +2547,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "ZEEP.html": {
       "settings": {
         "title": "ZEEP",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 10
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>ZEEP</b></p><p><i>sculpture / performance with Tim Choin</i></p><p><i>\"Le savon\" by Francis Ponge read by Irma Emmery</i></p><p>(2016)</p><p><br></p><p>During the performance you could see us, in our overalls, cutting and moulding the angular block into the general shape of soap. Mean- while, surrounded by smoke, you could listen to fragments of “Le savon”, a book by Francis Ponge.\n</p><p>The soap currently measures ca. 145 x 40 x 80 centimeters and weighs approximatly 350 kilo- gram.\n</p><p><br></p><p>Soap is a magic stone!\n</p><p>“A kind of stone, but a species that in nature doesn’t roll itself: it slips through your fingers and rather dissolves before your eyes, than by letting it wallow by the water.\nThen the game also consists of this, to grab it between your fin- gers and to provoke it with the right amount of water, in order to bring about a bulky, shiny reaction ...\nWhen we, on the other hand, lea-ve it in the water, it perishes from confusion.”\n</p><p>(Translated fragment from ‘Le savon’ by Francis Ponge)</p><p><br></p><p><br></p><p><br></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2631,28 +2698,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2v",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "plethorainmountainscene.html": {
       "settings": {
         "title": "Plethora in mountain scene",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 12
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Plethora in mountain scene</b></p><p><i>video</i></p><p>(2016)</p><p><br></p><p>Two slowly moving images taking turns, giving the impression of ha- ving a dialogue. A floating bucket and a dug shovel.\n</p><p><br></p><p>For this video, I filmed two events. A floating bucket and a dug shovel.\nOne might say that the two objects are having a dailogue, but the events can have a voice as well. By undergoing almost the same event, it also brings on an inward monologue, a self-contradiction.</p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2781,28 +2849,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2z",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "byebyeinfinito.html": {
       "settings": {
         "title": "Bye Bye Infinito",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 13
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-31",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Bye Bye Infinito</b></p><p><i>videoperfomance / videoinstallation</i></p><p>(2016)</p><p><br></p><p>During this videoperformance you can see me descending an in- clined green surface. The frame is constantly being zoomed out. When I reach the bottom, there is already another me walking towards the bottom. And so forth.\n</p><p><br></p><p>This work can be seen as a fol- low-up of Framing an inartificial green key and Full carpet framework, but deviates by time expelling the yardstick. That is, myself and an equal frame as a yardstick disappearing by a vertigoish effect. This time post-production points out the malleability.&nbsp;</p><p><br></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2931,28 +3000,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-31",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "growsomeballs.html": {
       "settings": {
         "title": "Grow some balls",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 14
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-33",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Grow some balls</b></p><p><i>sculptures</i></p><p>(2016)</p><p><br></p><p>Several vases with balls fitting in the top of them.\n</p><p><br></p><p>This work is little less a direct work, but with little commitment can speak to ones imagination. These are fairly casual gatherings of balls that fit into vases. The insignificant but graceful vase. The floating but uncanny ball. I find this combination kind of inspiring, form and content. In the beginning it could be an accidental material representation of how I felt, but lead me also to a more feminist point of view, maybe a Post-Minimal approach.\n</p><p>These sculptures have also been used as attributes in so called performative exhibitions in Mixed Media classes. The idea of attributes may be a new direction in upcoming work.</p><p><br></p><p><br></p><p><br></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -3081,28 +3151,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-33",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "fullcarpetframework.html": {
       "settings": {
         "title": "Full carpet framework",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 15
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-35",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Full carpet framework</b></p><p><i>videoperformance / videoinstallation / &nbsp;1h20m26s</i></p><p>(2016)</p><p><br></p><p>During this videoperformance, the surface is transformed in 7 fases. First, there’s a green car- pet rolled up, second the surface is being sprinkled, third the sand is shoveled, fourth the sand is smoothened, fifth the surface is wrapped in plastic, sixth the surface is whitened and seventh a green carpet is unrolled.\n</p><p><br></p><p>This work has been created as an extension of the work Framing of an inartificial green key, but de- viates from it because of its trans- formation as a measure, besides the measuring as a measure. This videoperformance is made on another inclined surface, where several actions took place. These actions point out the malleability, beside the more subtle suggested clarification of perspective and depth. Malleability in a immedia- te way, as well as on frame.\nFull carpet framework\nvideoperformance and installation / 1h20m26s\n(2016)</p><p><br></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -3231,28 +3302,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-35",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "raviolifeestmetsterren.html": {
       "settings": {
         "title": "Raviolifeest met sterren",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 16
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-37",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Raviolifeest met sterren</b></p><p><i>sound / happening</i></p><p>(2016)</p><p><br></p><p>This was a party were I served fresh handmade star-shaped ravioli’s. While eating you could enjoy the wonderful sound of two star-shaped ravioli-cutters bumping irregularly into each other. Raviolifeest 2.0 was a dinner with my jury members.\n</p><p><br></p><p>The sound of these star-shaped ravioli-cutters encouraged me to make a mechanic instrument. This soundproducing mechanic instrument asked for a celebra- tion with handmade star-shaped ravioli’s for the whole class.\nRaviolifeest 2.0 was a reprise of the first party, but only accesible for my jury members. I was won- dering how a jury meeting and presentation at the table, with food and sound, can take place in a more relaxed atmosphere.</p><p><br></p><p>(Translation: Ravioliparty with stars)\n</p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -3381,28 +3453,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-37",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "3398.html": {
       "settings": {
         "title": "3398",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 17
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-39",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>3398</b></p><p><i>video / 15m01s</i></p><p>(2016)</p><p><br></p><p>This video shows a, partly static partly moving, drawing/delineation on the foreground, while the background moves almost constantly over.\n </p><p><br></p><p>This drawing is one between the double glass window of a bus. Ac- tually a defect, but nevertheless aninterestingbeautifulfortuitous framework.\n</p><p>An anecdote: Two years earlier, I had seen this “phenomenon” but couldn’t film it any longer than 10 seconds. I spent hours at the bus<span style=\"font-size: 1.07rem; line-height: 1.5;\">station to capture this beautiful thing, but in vain. Eventually, one day at a terrace a bus with water between its window passes by. I wrote down the number of that specific bus. After some mail traffic, I came in contact with Bjorn, who gave me a ride.&nbsp;</span></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -3531,28 +3604,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-39",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "vogelspotten.html": {
       "settings": {
         "title": "Vogelspotten",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 19
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Vogelspotten</b></p><p><i>series of photographs</i></p><p>(2014)</p><p><br></p><p>This is a series of photographs of birds.Thereisazoomonthebirds and their environment serves as a framework. There is a little cross pointing on the birds.\n</p><p><br></p><p>In this series the framing suggests a new context. These pictures were taken along the road, but get a violent, obsessional angle by zooming and indicating the mid- dle with a target. It’s a wink to the fervent birdspotter community, that it is indeed important to cap- ture endangered birds on photo- graph, but after all they die. I also cannot resist to photograph beau- tiful things, but after all you only have an endless collection.&nbsp;</p><p><br></p><p><br></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -3681,28 +3755,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3d",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "suddencracklinegestures.html": {
       "settings": {
         "title": "Sudden Crack Line Gestures",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 20
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Sudden Crack Line Gestures</b></p><p><i>performance / ca. 25 min</i></p><p>(2014)</p><p><br></p><p>There are five stacks of plates in the shape of a circle. For as long as it takes, I stack the plates in a clockwise direction, one by one, in the ccntre of the circle. After this tower has fallen down, I sort the boards, intact and broken.</p><p><br></p><p>\nThis performance suggests a kind of selection or purification.\nBy repeating this specific routine over and over again, it brings about a boredom, because it is obvious what’s happening and what’s next. At the same time there is a certain weight and some tension tangible because of the repeating sound and the necessary concentration of the performer, as well as of the spectator.</p><p><br></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -3831,28 +3906,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3f",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "roer-me-niet.html": {
       "settings": {
         "title": "Roer-me-niet",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 21
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Roer-me-niet</b></p><p><i>sculpture</i></p><p>(2014)</p><p><br></p><p>This is a ball fully planted with mimosa pudicas. It is placed on the ground.\n</p><p><br></p><p>In Dutch this plant is called ‘kruidje-roer-me-niet’, translated ‘herb-do-no-stir-me’. Assuming this typical name, I chose this shape in which these sensitive plants and the curious spectators are being challenged.</p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -3981,28 +4057,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3h",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "untitled.html": {
       "settings": {
         "title": "Untitled",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 22
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Untitled</b></p><p><i>video / 16m08s</i></p><p>(2014)</p><p><br></p><p>This video contains a vast cadre that slowly changes color. There is a countdown beginning from 9. Sometimes the cadre enlightens intensely . When the cadre enlightens, the countdown stops, but the same shot keeps going.\n</p><p><br></p><p>This sequence of frames that nearly change is a slow motion of earlier videos I made. At that time, my camera was only able to film 9 seconds. It was stormy weather and I was waiting for the lightning bolts, enlightning my entire room, to capture.\n</p><p>The combination of the pixels and the numbers are building suspen- se, but do not always redeem.\n</p><p><br></p><p>This video was made for the SLOW Festival where, ofcourse, slowness was the guideline.</p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -4131,28 +4208,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3j",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "aantrede.html": {
       "settings": {
         "title": "Aantrede",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 11
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Aantrede</b></p><p><i>sculpture</i></p><p>(2016)</p><p><br></p><p>You may see a stairway without treads or three hurdleish things fasten to each other.\n</p><p><br></p><p>This is indeed a stairway without treads.\nIt can be seen as a sculpture that can be used as a attribute, but can also be seen as a post-minimal ob- ject. For me, this work follows the same way as Grow some balls. In a way this object likes to present itself to me as a mystery, which I find intriguing. since I indeed made it myself.\nYou may also see a certain relation between Aantrede and the inclin- ed surface videoperformances, be- cause of the depth being a surface.</p><p><br></p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -4281,28 +4359,29 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2x",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
     "framingofaninartificialgreenkey.html": {
       "settings": {
         "title": "Framing of an inartificial green key",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt"
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 18
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Framing of an inartificial green key</b></p><p><i>videoperformance / 10m07s</i></p><p>(2016)</p><p><br></p><p>During this videoperformance the sides and diagonals of a inartificial green key are being outset.\nThis movement through the screen causes a new perspective into what seems a green surface. When I stand in the foreground, the illusion is created that it is a green screen, but when I walk into the frame, perspective emerges. Here I have used myself as a yard- stick.\n</p><p><br></p><p>The image is 16:9 and I’m 1m80 tall. These measurements and there ratio towards each other, through the eye of the camera, aroused my curiosity. As the horizon is (almost) the only constant that reveals proportions, I made this videoperformance on a inclined surface. By being actively pre- sent on scene, the measurements perform.</p>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -4431,19 +4510,6 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3b",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     }
