@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 202,
+    "uniqCompNum": 203,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -1742,7 +1742,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/difficultbutallyours1-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/web-difficultbutallyours1-1400x933.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1861,7 +1861,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/difficult2-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/web-difficult2-1400x933.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1889,7 +1889,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/difficult3-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/web-difficult3-1400x933.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2057,7 +2057,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ypsilonely-1400x2099.jpg",
+              "src": "@PROJECT_PATH@/assets/images/web-ypsilonely-1400x2099.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2212,7 +2212,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/walter-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/web-kgahetzeggenwalter-1400x2100.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2357,7 +2357,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-2q",
+          "_anchor": "image2-5m",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -2367,8 +2367,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/image1.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -2518,8 +2522,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/image1.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -4639,7 +4647,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4250.jpg",
+              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4251.jpg",
               "link": "suddencracklinegestures.html",
               "alt": "",
               "title": "",
@@ -4697,7 +4705,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4191.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4192.jpg",
               "link": "roer-me-niet.html",
               "alt": "",
               "title": "",
@@ -4755,7 +4763,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4192.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4193.jpg",
               "link": "untitled.html",
               "alt": "",
               "title": "",
@@ -4930,7 +4938,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4193.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4194.jpg",
               "link": "fullcarpetframework.html",
               "alt": "",
               "title": "",
@@ -4988,7 +4996,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4194.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4195.jpg",
               "link": "raviolifeestmetsterren.html",
               "alt": "",
               "title": "",
@@ -5046,7 +5054,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4266.jpg",
               "link": "3398.html",
               "alt": "",
               "title": "",
@@ -5104,7 +5112,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4196.jpg",
+              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4197.jpg",
               "link": "Framing of an inartificial green key.html",
               "alt": "",
               "title": "",
@@ -5162,7 +5170,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4197.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4198.jpg",
               "link": "vogelspotten.html",
               "alt": "",
               "title": "",
@@ -5333,7 +5341,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4198.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4199.jpg",
               "link": "didnttheytellyou?.html",
               "alt": "",
               "title": "",
@@ -5394,7 +5402,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x4199.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x41910.jpg",
               "link": "ZEEP#2.html",
               "alt": "",
               "title": "",
@@ -5452,7 +5460,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41911.jpg",
               "link": "ZEEP.html",
               "alt": "",
               "title": "",
@@ -5510,7 +5518,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41911.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41912.jpg",
               "link": "Aantrede.html",
               "alt": "",
               "title": "",
@@ -5568,7 +5576,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41913.jpg",
               "link": "plethorainmountainscene.html",
               "alt": "",
               "title": "",
@@ -5626,7 +5634,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41913.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41914.jpg",
               "link": "byebyeinfinito.html",
               "alt": "",
               "title": "",
@@ -5685,7 +5693,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41914.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41915.jpg",
               "link": "growsomeballs.html",
               "alt": "",
               "title": "",
@@ -5856,7 +5864,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41916.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -5914,7 +5922,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41916.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41917.jpg",
               "link": "ypsilonely.html",
               "alt": "",
               "title": "",
@@ -5972,7 +5980,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41917.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41918.jpg",
               "link": "kgahetzeggenwalter.html",
               "alt": "",
               "title": "",
@@ -6146,7 +6154,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41913.jpg",
               "link": "plethorainmountainscene.html",
               "alt": "",
               "title": "",
@@ -6204,7 +6212,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4266.jpg",
               "link": "3398.html",
               "alt": "",
               "title": "",
@@ -6262,7 +6270,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4192.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4193.jpg",
               "link": "untitled.html",
               "alt": "",
               "title": "",
@@ -6436,7 +6444,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41913.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41914.jpg",
               "link": "byebyeinfinito.html",
               "alt": "",
               "title": "",
@@ -6498,7 +6506,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4193.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4194.jpg",
               "link": "fullcarpetframework.html",
               "alt": "",
               "title": "",
@@ -6556,7 +6564,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4196.jpg",
+              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4197.jpg",
               "link": "Framing of an inartificial green key.html",
               "alt": "",
               "title": "",
@@ -6730,7 +6738,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41913.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41914.jpg",
               "link": "byebyeinfinito.html",
               "alt": "",
               "title": "",
@@ -6792,7 +6800,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4193.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4194.jpg",
               "link": "fullcarpetframework.html",
               "alt": "",
               "title": "",
@@ -6966,7 +6974,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4194.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4195.jpg",
               "link": "raviolifeestmetsterren.html",
               "alt": "",
               "title": "",
@@ -7140,7 +7148,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41916.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41917.jpg",
               "link": "ypsilonely.html",
               "alt": "",
               "title": "",
@@ -7198,7 +7206,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41917.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41918.jpg",
               "link": "kgahetzeggenwalter.html",
               "alt": "",
               "title": "",
@@ -7256,7 +7264,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4198.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4199.jpg",
               "link": "didnttheytellyou?.html",
               "alt": "",
               "title": "",
@@ -7314,7 +7322,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41911.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41912.jpg",
               "link": "Aantrede.html",
               "alt": "",
               "title": "",
@@ -7373,7 +7381,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41914.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41915.jpg",
               "link": "growsomeballs.html",
               "alt": "",
               "title": "",
@@ -7431,7 +7439,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4191.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4192.jpg",
               "link": "roer-me-niet.html",
               "alt": "",
               "title": "",
@@ -7605,7 +7613,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4197.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4198.jpg",
               "link": "vogelspotten.html",
               "alt": "",
               "title": "",
@@ -7779,7 +7787,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41916.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -7953,7 +7961,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41916.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -8014,7 +8022,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x4199.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x41910.jpg",
               "link": "ZEEP#2.html",
               "alt": "",
               "title": "",
@@ -8072,7 +8080,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4194.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4195.jpg",
               "link": "raviolifeestmetsterren.html",
               "alt": "",
               "title": "",
@@ -8246,7 +8254,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41911.jpg",
               "link": "ZEEP.html",
               "alt": "",
               "title": "",
@@ -8304,7 +8312,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4250.jpg",
+              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4251.jpg",
               "link": "suddencracklinegestures.html",
               "alt": "",
               "title": "",
